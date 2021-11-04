@@ -1,0 +1,8 @@
+# ignore node environment
+/node_modules
+
+#ignore dist directory
+/dist
+
+#ignore editor folder
+/.vscode
